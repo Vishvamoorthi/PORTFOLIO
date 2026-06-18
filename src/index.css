@@ -1,0 +1,6 @@
+/* Global reset — all styles are handled inline in App.tsx */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
