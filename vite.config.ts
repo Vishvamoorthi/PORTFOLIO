@@ -17,3 +17,14 @@ export default defineConfig({
     },
   },
 });
+export default defineConfig({
+  base: "/VM_PORTFOLIO/",
+
+  plugins: [react(), tailwindcss(), viteSingleFile()],
+
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "src"),
+    },
+  },
+});
