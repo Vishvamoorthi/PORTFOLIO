@@ -1345,9 +1345,8 @@ export default function Portfolio() {
                 <span className="accent">Moorthi R</span>
               </h1>
               <div className="hero-role-line fade-up delay-3">
-                <span className="hero-role-tag">Backend Dev</span>
-                <span className="hero-role-tag violet">Deep Learning</span>
-                <span className="hero-role-tag">SEO</span>
+                <span className="hero-role-tag">Aspiring Software Engineer</span>
+                <span className="hero-role-tag">SEO Manager</span>
               </div>
               <p className="hero-desc fade-up delay-4">
                   Motivated Computer Science undergraduate with hands-on experience in backend development, web technologies, and SEO. Skilled in Python, SQL, and REACT/NODE.JS, with practical exposure through internships and real-world projects.
