@@ -1,0 +1,13 @@
+/* App.css — minimal reset only.
+   All portfolio styles are defined in the `styles` template literal inside App.jsx.
+   This file intentionally contains no component styles to avoid conflicts. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+}
