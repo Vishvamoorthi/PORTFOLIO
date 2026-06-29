@@ -1284,7 +1284,6 @@ export default function Portfolio() {
     document.body.style.overflow = menuOpen ? "hidden" : "";
     return () => { document.body.style.overflow = ""; };
   }, [menuOpen]);
-
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href     = "/VM_resumeJUN.pdf";
