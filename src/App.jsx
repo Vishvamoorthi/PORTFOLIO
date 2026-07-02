@@ -1252,7 +1252,7 @@ function HeroPhoto() {
           <span className="hero-photo-initials">VM</span>
         ) : (
           <img
-            src="/hero_image.png"
+            src="./hero_image.png"
             alt="Vishva Moorthi R"
             onError={() => setImgFailed(true)}
           />
