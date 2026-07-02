@@ -1286,7 +1286,7 @@ export default function Portfolio() {
   }, [menuOpen]);
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href     = "/VM_resumeJUN.pdf";
+    link.href     = "/PORTFOLIO/VM_resumeJUN.pdf";
     link.download = "VishvaMoorthi_Resume.pdf";
     document.body.appendChild(link);
     link.click();
