@@ -142,10 +142,10 @@ Visit the live portfolio:
 
 **Vishva Moorthi R**
 
-📧 Email: your-email@example.com
+📧 Email: vishwamoorthy888@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/your-profile
+https://www.linkedin.com/in/vishva-moorthi-r-0a6a772ab/
 
 🐙 GitHub:
 https://github.com/Vishvamoorthi
